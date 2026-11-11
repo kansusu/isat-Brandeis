@@ -1,0 +1,13 @@
+session,input_file,rows_count,mean_f1_percent
+316,individual_attention_report_session_316.csv,20,85.9365
+327,individual_attention_report_session_327.csv,30,66.88
+328,individual_attention_report_session_328.csv,20,78.5
+329,individual_attention_report_session_329.csv,20,66.646
+335,individual_attention_report_session_335.csv,20,87.2835
+338,individual_attention_report_session_338.csv,20,69.484
+339,individual_attention_report_session_339.csv,20,75.3405
+343,individual_attention_report_session_343.csv,20,74.313
+346,individual_attention_report_session_346.csv,30,75.4973
+349,individual_attention_report_session_349.csv,20,85.9775
+351,individual_attention_report_session_351.csv,20,55.2255
+352,individual_attention_report_session_352.csv,30,51.858

@@ -1,0 +1,10 @@
+behavior,accuracy,f1
+look_away,0.96,0.82
+point_at_others,0.93,0.77
+lean_away,0.94,0.77
+point_at_tool,0.89,0.74
+lean_towards,0.62,0.46
+look_at_others,0.64,0.45
+joint_gaze,0.46,0.37
+individual_gaze,0.46,0.32
+overall,0.73,0.59

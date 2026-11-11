@@ -1,0 +1,13 @@
+session,input_file,rows_count,mean_f1_percent
+316,group_evaluation_report_session_316.csv,10,76.1577
+327,group_evaluation_report_session_327.csv,10,71.5558
+328,group_evaluation_report_session_328.csv,10,69.2822
+329,group_evaluation_report_session_329.csv,10,52.1597
+335,group_evaluation_report_session_335.csv,10,82.2683
+338,group_evaluation_report_session_338.csv,10,64.7004
+339,group_evaluation_report_session_339.csv,10,71.2445
+343,group_evaluation_report_session_343.csv,10,59.5592
+346,group_evaluation_report_session_346.csv,10,82.7455
+349,group_evaluation_report_session_349.csv,10,81.429
+351,group_evaluation_report_session_351.csv,10,62.6566
+352,group_evaluation_report_session_352.csv,10,47.0889
