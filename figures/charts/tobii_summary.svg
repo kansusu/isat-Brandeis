@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 168" width="760" height="168" role="img" aria-label="Pooled sensitivity, specificity and balanced accuracy"><style>
+  svg { --ink:#1f2328; --ink2:#59636e; --grid:#d1d9e0; --s1:#2a78d6; --s2:#eb6834; --bad:#e34948; }
+  @media (prefers-color-scheme: dark) {
+    svg { --ink:#f0f6fc; --ink2:#9198a1; --grid:#3d444d; --s1:#3987e5; --s2:#d95926; --bad:#e66767; }
+  }
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: var(--ink); }
+  .t { font-size:18px; font-weight:600; }
+  .st { font-size:13px; fill: var(--ink2); }
+  .lab { font-size:13px; }
+  .ax { font-size:11px; fill: var(--ink2); }
+  .val { font-size:12px; font-weight:600; }
+  .grid { stroke: var(--grid); stroke-width:1; }
+  .s1 { fill: var(--s1); } .s2 { fill: var(--s2); }
+</style><text class="st" x="0.0" y="20">Sensitivity</text><text x="0.0" y="72" style="font-size:44px;font-weight:600">0.911</text><rect x="0.0" y="90" width="213.33333333333334" height="8" rx="4" style="fill:var(--grid)"/><rect class="s1" x="0.0" y="90" width="194.4311912390069" height="8" rx="4"/><text class="ax" x="0.0" y="122">looking at screen, caught</text><text class="st" x="253.33333333333334" y="20">Specificity</text><text x="253.33333333333334" y="72" style="font-size:44px;font-weight:600">0.118</text><rect x="253.33333333333334" y="90" width="213.33333333333334" height="8" rx="4" style="fill:var(--grid)"/><rect class="s1" x="253.33333333333334" y="90" width="25.12447154056255" height="8" rx="4"/><text class="ax" x="253.33333333333334" y="122">looking away, caught</text><text class="st" x="506.6666666666667" y="20">Balanced accuracy</text><text x="506.6666666666667" y="72" style="font-size:44px;font-weight:600">0.515</text><rect x="506.6666666666667" y="90" width="213.33333333333334" height="8" rx="4" style="fill:var(--grid)"/><rect class="s1" x="506.6666666666667" y="90" width="109.77783138978472" height="8" rx="4"/><text class="ax" x="506.6666666666667" y="122">≈ chance (0.5)</text><text class="ax" x="0" y="162">Pooled frames, 12 sessions: TP 582,312 · FP 293,612 · TN 39,195 · FN 56,611</text></svg>
